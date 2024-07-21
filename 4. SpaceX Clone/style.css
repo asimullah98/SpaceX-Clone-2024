@@ -1,0 +1,173 @@
+
+
+*{
+    padding: 0;
+    margin: 0px;
+    padding: 5px;
+    /* background-color: rgb(44, 29, 29); */
+}
+body{
+    position: absolute;
+}
+
+body{
+    background-image: url("bg.jpg");
+    height: 600px;
+    width: 1320px;
+    position: relative;
+    object-fit: cover;
+    position: center;
+    background-position: center;
+}
+
+.container{
+
+    color: white;
+    /* background-image: url("bg.jpg"); */
+}
+
+nav{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+nav ul{
+    display: contents;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    list-style: none;
+    /* gap: 10px; */
+    cursor: pointer;
+    font-size: medium;
+    font-weight: bold;
+    z-index: 10;
+}
+
+nav img{
+    width: 150px;
+    cursor: pointer;
+    /* padding: 23px; */
+}
+
+a{
+    padding: 15px;
+}
+
+
+.lines{
+    width: 23px;
+    cursor: pointer;
+}
+
+h1{
+    font-size: xxx-large;
+    font-weight: 900;
+}
+
+h2{
+    font-weight: 800;
+    font-size: xx-large;
+}
+.text button{
+    color: white;
+    background-color: black;
+    border: 2px solid white;
+
+}
+
+.container .text{
+    margin: 36px;
+    /* padding: 76px; */
+    padding: 176px 3px;
+    /* color: red; */
+
+}
+
+.second{
+    background-image: url("second.jpg");
+    height: 600px;
+    width: 1320px;
+    position: relative;
+    object-fit: cover;
+    position: center;
+    background-position: center;
+}
+
+.sec{
+    margin: 334px 32px;
+    color: white;
+    background-color: none;
+}
+
+.boxsec{
+    border: 2px solid white;
+    width: 76px;
+    padding: 10px;
+    margin: 23px;
+    margin: 9px 13px;
+}
+
+.third{
+    background-image: url("third.jpg");
+    height: 600px;
+    width: 1320px;
+    position: relative;
+    object-fit: cover;
+    position: center;
+    background-position: center;
+}
+
+.fourth{
+    background-image: url("fourth.jpg");
+    height: 600px;
+    width: 1320px;
+    position: relative;
+    object-fit: cover;
+    position: center;
+    background-position: center;
+}
+
+.box4{
+    border: 2px solid white;
+    width: 76px;
+    padding: 10px;
+    margin: 23px;
+    width: 76px;
+    padding: 10px;
+    margin: 23px;
+    margin: 9px 13px;
+    display: inline;
+}
+
+.fifth{
+    background-image: url("fifth.jpg");
+}
+
+.end{
+    color: white;
+    gap: 23px;
+}
+
+.end ul{
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    grid: 45px;
+}
+
+.end ul li{
+    gap: 23px;
+}
+
+.fifth ul{
+    gap: 35px;
+}
+
+
+
+
+
+
